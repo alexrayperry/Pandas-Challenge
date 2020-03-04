@@ -8,7 +8,9 @@ In this exercise we are analyzing the data from a csvfile that contains informat
 
 Age Range
 
-* 44.79% of players are in the age range of 20-24 years old. As you look at players that are younger and older than this age range you see a gradual decline in the numbers moving away from the central tendency.
+* 44.79% of players are in the age range of 20-24 years old. As you look at players that are younger and older than this age range you see a gradual decline in the number of players moving away from the central tendency.
+
+![Age Range](images/image1.png)
 
 Most Purchased and Profitable Items
 
