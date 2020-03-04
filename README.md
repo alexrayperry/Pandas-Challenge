@@ -18,7 +18,7 @@ Most Purchased and Profitable Items
 most profitable items. Therefore, to create more profit, we can focus on creating incentives within the gameplay to purchase these items to incentivize players who may not have purchased these items prior, to so. Furthermore since the data shows a trend of re-purchase for these items, players
 will be likely to re-purchase these items again.
 
-* The 5th most popluar item, "Pursuit Cudgel of Necromancy," has a total purchase value of $8.16. This value is considerably lower than the 4th most popular item. 
+* The 5th most purchased item, "Pursuit Cudgel of Necromancy," has a total purchase value of $8.16. This value is considerably lower than the 4th most purchased item. 
 Based on this trend we may want to de-incentivize players from purchases this specific item since it is not creating considerable profit. Alternatively, we can raise the price of this item to generate more profit, since it is popluar. 
 
 Top 5 Most Profitable Items
