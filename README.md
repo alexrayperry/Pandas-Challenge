@@ -21,7 +21,7 @@ will likely to re-purchase the add-on and generate more profit.
 * The 5th most popluar item "Pursuit Cudfel of Necromancy" has a total purchase value of $8.16. This value is considerably lower than the 4th most popular item at a difference of []. 
 Based on this trend we may want to deincentives, with in the game play, a user from purchases this specific item. Alternatively, we can raise the price of this item. 
 
-
-
+![Profit](images/image2.png)
+![Purchase](images/image3.png)
 
 
